@@ -5,5 +5,6 @@
 1. Clone the repository and navigate to the directory.
 2. Run the command py app.py
 3. This will run the web app in the localhost and would look like this. Feel free to play around. 😋
-
+<img src="https://github.com/avinjoseph/Image_to_Sketch/blob/master/img1.png">
+4. The result will be :
 
